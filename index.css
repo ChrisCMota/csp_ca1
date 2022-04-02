@@ -12,3 +12,9 @@ img{float: right;
     border: 5px solid;
 
 }
+div{
+    border-radius: 2px;
+    display: block;
+    border: 2px solid;
+    margin-right: 400px;
+}
