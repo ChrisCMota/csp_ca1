@@ -1,0 +1,14 @@
+body{
+    background: white;
+}
+p {
+    color: black;
+}
+h1{
+    font-weight: bold;
+}
+img{float: right;
+    height: 300px;
+    border: 5px solid;
+
+}
