@@ -13,8 +13,13 @@ img{float: right;
 
 }
 div{
-    border-radius: 2px;
+    border-radius: 1px;
     display: block;
-    border: 2px solid;
+    border: 1px solid;
     margin-right: 400px;
 }
+table, th, td {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    
+  }
